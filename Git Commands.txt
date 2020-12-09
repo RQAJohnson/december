@@ -1,0 +1,15 @@
+Git init --- New repo
+
+Git remote add origin  "URL/link"
+
+Git add .(everything)/ git remove
+
+git status
+
+git commit -m
+
+git push -u origin master
+
+-------------------------------------------------------------
+
+git clone
